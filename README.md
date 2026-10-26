@@ -1,2 +1,0 @@
-# Shellware-Game
-README
